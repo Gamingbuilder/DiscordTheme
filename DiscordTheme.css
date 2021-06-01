@@ -331,19 +331,6 @@
     background-color: #000000;
 }
 
-.numberBadge-2s8kKX {
-    background-color: #800000!important;
-}
-
-.replyBar-1YLQ2F, .threadSuggestionBar-2ufK2Z {
-    background: #000000;
-    cursor: pointer;
-}
-
-.colorLink-2vG20E {
-    color: #800000;
-}
-
 .selectedIcon-3uS11H svg {
     color: #ffffff;
 }
@@ -4013,6 +4000,19 @@ background-color: #090909;
 
 .theme-dark .watchButton-2SbJEo:not([disabled]):hover {
     border-color: #800000;
+}
+
+.numberBadge-2s8kKX {
+    background-color: #800000!important;
+}
+
+.replyBar-1YLQ2F, .threadSuggestionBar-2ufK2Z {
+    background: #000000;
+    cursor: pointer;
+}
+
+.colorLink-2vG20E {
+    color: #800000;
 }
 
 .pro-1T8RK7.base-1x0h_U.size12-3cLvbJ[style*="color: rgb(59, 165, 92);"]{
