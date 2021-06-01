@@ -298,6 +298,43 @@
     background-color: #800000;
 }
 
+.emptyCard-1RJw8n {
+    background: #090909;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.headerTop-2y3V6H {
+    display: block;
+    padding: 64px 16px 16px;
+    background-color: #1a1a1a;
+    overflow: hidden;
+    position: relative;
+    border-bottom: 1px solid #090909;
+}
+
+.theme-dark .container-1D34oG {
+    background-color: #000000;
+}
+
+.numberBadge-2s8kKX.base-PmTxvP.baseShapeRound-1Mm1YW [style*="background-color: rgb(237, 66, 69); width: 16px; padding-right: 1px;"] {
+    background-color: #800000!important;
+}
+
 .selectedIcon-3uS11H svg {
     color: #ffffff;
 }
