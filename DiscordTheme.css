@@ -4083,6 +4083,25 @@ background-color: #090909;
 	fill: #800000;
 }
 
+.upsellCard-11CKVn {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: #090909;
+    padding: 8px;
+    color: var(--text-normal);
+    border-radius: 4px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.betaBadge-X2p2Ie {
+    background-color: #800000!important;
+}
+
 .bar-30k2ka {
     display: -webkit-box;
     display: -ms-flexbox;
