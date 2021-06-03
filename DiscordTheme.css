@@ -4102,6 +4102,86 @@ background-color: #090909;
     background-color: #800000!important;
 }
 
+.ctaBar-2UsjF2 {
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    padding: 16px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 4px;
+    background-color: #090909;
+}
+
+.tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_ {
+    background: #800000;
+}
+
+.tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_.tierMarkerSelectable-3t7r2q {
+    background: #800000;
+}
+
+.tierMarkerInProgress-24LMzJ.tierMarker-5HkGJ_.tierMarkerSelectable-3t7r2q {
+    background: #090909;
+}
+
+.barForeground-3KglC8 {
+    background-color: #800000;
+}
+
+.theme-dark .tierMarkerInProgress-24LMzJ .currentTierIcon-2gcTCn.tier3Icon-Ku4Ahe, .theme-light .tierMarkerInProgress-24LMzJ .currentTierIcon-2gcTCn.tier3Icon-Ku4Ahe {
+    color: #800000;
+}
+
+.theme-dark .tierHeaderLocked-1s2JJz {
+    background-color: #090909;
+    color: #800000;
+}
+
+.theme-dark .tierHeaderUnlocked-1n-OTI, .theme-light .tierHeaderUnlocked-1n-OTI {
+    background-image: -webkit-gradient(linear,left top,right top,from(#800000),to(#800000));
+    background-image: linear-gradient(90deg,#800000,#800000);
+    color: #fff;
+}
+
+.theme-dark .tierUnlocked-25K6Kv, .theme-light .tierUnlocked-25K6Kv {
+    background-color: #090909;
+    color: #ffffff;
+}
+
+.theme-dark .unlocked-251xRB, .theme-light .unlocked-251xRB {
+    color: #800000;
+}
+
+.theme-dark .perk-2WeBWW {
+    background-color: #090909;
+}
+
+.divider-25_-sM {
+    height: 1px;
+    background: #090909;
+    margin: 32px 0;
+}
+
+.theme-dark .perksModal-fSYqOq {
+    background-image: url(/assets/c486dc6….svg);
+    background-color: #000000;
+}
+
+.wrapper-3nSjSv {
+    background: -webkit-gradient(linear,left top,right top,from(#800000),to(#800000)) no-repeat;
+    background: linear-gradient(90deg,#800000,#800000) no-repeat;
+    border-radius: 8px;
+    color: #ffffff;
+    margin-top: 24px;
+    padding: 16px 32px;
+    position: relative;
+    text-align: center;
+}
+
 .bar-30k2ka {
     display: -webkit-box;
     display: -ms-flexbox;
