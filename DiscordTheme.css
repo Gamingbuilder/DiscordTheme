@@ -4113,32 +4113,32 @@ background-color: #090909;
     -ms-flex-align: center;
     align-items: center;
     border-radius: 4px;
-    background-color: #090909;
+    background-color: #090909!important;
 }
 
 .tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_ {
-    background: #800000;
+    background: #800000!important;
 }
 
 .tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_.tierMarkerSelectable-3t7r2q {
-    background: #800000;
+    background: #800000!important;
 }
 
 .tierMarkerInProgress-24LMzJ.tierMarker-5HkGJ_.tierMarkerSelectable-3t7r2q {
-    background: #090909;
+    background: #090909!important;
 }
 
 .barForeground-3KglC8 {
-    background-color: #800000;
+    background-color: #800000!important;
 }
 
 .theme-dark .tierMarkerInProgress-24LMzJ .currentTierIcon-2gcTCn.tier3Icon-Ku4Ahe, .theme-light .tierMarkerInProgress-24LMzJ .currentTierIcon-2gcTCn.tier3Icon-Ku4Ahe {
-    color: #800000;
+    color: #800000!important;
 }
 
 .theme-dark .tierHeaderLocked-1s2JJz {
-    background-color: #090909;
-    color: #800000;
+    background-color: #1a1a1a!important;
+    color: #800000!important;
 }
 
 .theme-dark .tierHeaderUnlocked-1n-OTI, .theme-light .tierHeaderUnlocked-1n-OTI {
@@ -4181,6 +4181,28 @@ background-color: #090909;
     position: relative;
     text-align: center;
 }
+
+.theme-dark .icon-QVoPRH, .theme-light .icon-QVoPRH {
+    color: #800000!important;
+}
+
+.badgeIconWithSubscribers-3PlMu9 {
+    color: #800000!important;
+}
+
+.theme-dark .tierMarkerBackground-3q29am {
+    background-color: transparent!important;
+}
+
+.theme-dark .tierBody-16Chc9 {
+    background-color: #090909!important;
+}
+
+
+
+
+
+
 
 .bar-30k2ka {
     display: -webkit-box;
