@@ -1630,6 +1630,7 @@ color: #800000;
 
 .colorHeaderSecondary-3Sp3Ft {
     color: #ffffff;
+    background-color: #000000;
 }
 
 .container-UC8Ug1 {
@@ -4804,4 +4805,20 @@ background-color: #090909;
 
 .theme-dark .contentWrapper-3WC1ID {
     background: #000000;
+}
+
+.containerBackground-LlUax5 {
+    background-color: #0d0d0d;
+    border: 1px solid #0d0d0d;
+    border-radius: 8px;
+    bottom: 0;
+    -webkit-box-shadow: var(--elevation-high);
+    box-shadow: var(--elevation-high);
+    left: 0;
+    min-height: 16px;
+    opacity: .95;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
 }
