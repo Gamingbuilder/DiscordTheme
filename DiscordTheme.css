@@ -1306,7 +1306,7 @@ color: #800000;
 }
 
 .checkbox-1ix_J3[style*="border-color: var(--control-brand-foreground); background-color: var(--control-brand-foreground);"] {
-    background-color: #800000!important;
+    background-color: #ffffff!important;
     border-color: #800000!important;
 }
 
@@ -4278,6 +4278,301 @@ background-color: #090909;
     -ms-user-select: none;
     user-select: none;
     padding: 12px 0 0;
-    background-color: #000000;
+    background-color: #0d0d0d;
     contain: layout size;
+}
+
+.accountProfileCard-1XCH88 {
+    background-color: #0d0d0d;
+    border-radius: 8px;
+    position: relative;
+    overflow: hidden;
+}
+
+.notice-ZSe05e {
+    background-color: #0d0d0d;
+    border-radius: 4px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.headerTagUsernameNoNickname-2-Y5Ct {
+    color: #800000;
+    font-weight: 600;
+}
+
+.discrimBase-24vY8o {
+    color: #ffffff;
+    vertical-align: top;
+}
+
+.headerTop-3vNv-a {
+    display: block;
+    flex-shrink: 0;
+    padding: 64px 16px 16px;
+    overflow: hidden;
+    position: relative;
+    background: #0d0d0d;
+    cursor: grabbing;
+}
+
+.customStatus-oN4ZZY {
+    margin-bottom: 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    overflow-wrap: break-word;
+    font-size: 14px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.base-1x0h_U.muted-3-7c5L {
+    color: #800000;
+}
+
+.lookLink-9FtZy-.colorLink-35jkBc:hover .contents-18-Yxp {
+    background-image: linear-gradient(0deg,#ff000000,#ff000000 1px,var(--text-link) 0,var(--text-link) 2px,#ff000000 0);
+}
+
+.container-cMG81i {
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: #800000;
+}
+
+.icon-1S6UIr {
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    transition: opacity .1s ease-out,-webkit-transform .1s ease-out;
+    transform: rotate(90deg);
+    color: #ffffff;
+}
+
+.input-3Xdcic {
+    box-sizing: border-box;
+    background: #ffffff00;
+    border: none;
+    resize: none;
+    -webkit-box-flex: 1;
+    flex: 1;
+    min-width: 48px;
+    margin: 1px;
+    -webkit-appearance: none;
+    appearance: none;
+    color: #ffffff;
+}
+
+.billingInformation-1MZXzx {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.detailsBlock-FoDTGA {
+    flex-basis: 50%;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    margin-right: 16px;
+    background-color: #0d0d0d;
+    border-radius: 5px;
+    padding: 16px;
+    min-width: 200px;
+}
+
+.option-3KoAJB {
+    padding: 12px;
+    cursor: pointer;
+    color: #ffffff;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 500;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.noItemsCard-3TSAgO {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 16px;
+    padding: 16px 19px;
+    border: none;
+    color: #ffffff;
+    background-color: #0d0d0d;
+}
+
+.selectedIcon-3uS11H {
+    fill: #ffffff;
+}
+
+.container-3auIfb {
+    opacity: 1;
+    background-color: #800000;
+}
+
+.theme-dark .noItemsIcon-ygEH8z {
+    background: #800000;
+}
+
+.finePrint-2QTm37 {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 500;
+    color: #800000;
+    margin-top: 4px;
+}
+
+.lookInverted-2D7oAl.colorBrand-3pXr91:hover {
+    background-color: #0d0d0d;
+    color: #800000;
+}
+
+.subscriptionsRedirectContainer-21LuI0 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #0d0d0d;
+    padding: 8px;
+    border: none;
+    margin-bottom: 24px;
+}
+
+.tag-1aipTK {
+    background-color: #800000;
+    font-size: 12px;
+    line-height: 16px;
+    padding: 0 4px;
+}
+
+.guildHeader-3nh5RK {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #0d0d0d;
+    position: relative;
+}
+
+.guildSubscriptionSlots-JPXXvN {
+    padding: 16px;
+    background-color: #1a1a1a;
+}
+
+.guildSubscriptionSlotIcon-EVE04u {
+    width: 18px;
+    height: 18px;
+    color: #800000;
+    margin-right: 8px;
+}
+
+.gemWithLabel-2aecE_ {
+    color: #800000;
+}
+
+.gemIndicatorProgressCircle-3wDFa1 {
+    width: 70px;
+    height: 70px;
+    color: #800000;
+}
+
+.subscribeTooltipWrapper-1JoUuw {
+    max-width: 280px;
+    padding: 16px;
+    background-color: #0d0d0d;
+    border-radius: 8px;
+    -webkit-box-shadow: #0d0d0d;
+    box-shadow: #0d0d0d;
+}
+
+.premiumGuildIcon-13KUPa {
+    color: #800000;
+    width: 12px;
+    height: 12px;
+    margin-right: 4px;
+}
+
+.theme-dark .gemWithoutLabel-7-ZvB_ {
+    color: #0d0d0d;
+}
+
+.base-1x0h_U.muted-3-7c5L {
+    color: #800000;
+}
+
+.promotionCard-2IP574 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #0d0d0d;
+}
+
+.theme-dark .premiumIndicator-1XvbfM {
+    background-color: #800000;
+    color: #ffffff;
+}
+
+.theme-dark .defaultIndicator-G3c16x {
+    background-color: #0d0d0d;
+    color: #ffffff;
+}
+
+.theme-dark .description-HxwDO4 {
+    color: #ffffff;
+}
+
+.theme-dark .descriptionWrapper-1YBY_J {
+    color: #800000;
+}
+
+.theme-dark .paymentText-2vaF7U {
+    color: #800000;
+}
+
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled {
+    background-color: #800000;
+}
+
+.preview-2Vkbi6 {
+    background-color: #0d0d0d;
+    padding: 16px;
+}
+
+.previewMessage-1ZN7YG {
+    padding: 8px;
+    border-radius: 4px;
+    margin-top: 16px;
+    background-color: #1a1a1a;
+}
+
+.lookFilled-1Gx00P.colorBrandNew-g5lmBU {
+    color: #fff;
+    background-color: #800000;
+}
+
+.lookFilled-1Gx00P.colorBrandNew-g5lmBU:hover {
+    background-color: #0d0d0d;
 }
