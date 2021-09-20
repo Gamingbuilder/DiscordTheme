@@ -4636,3 +4636,56 @@ background-color: #090909;
     -ms-flex-pack: center;
     justify-content: center;
 }
+
+.theme-dark .tierHeaderUnlocked-3lTDnP {
+    background-color: #0d0d0d;
+}
+
+.tierIcon-1g5KsI {
+    color: hsl(302,calc(var(--saturation-factor, 1)*100%),72.5%);
+    width: 32px;
+    height: 32px;
+}
+
+.tierUnlocked-2H6ULo {
+    background-color: #800000;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px 8px;
+    text-transform: uppercase;
+}
+
+.theme-dark .tierAccomplished-2eXPdI, .theme-dark .tierCurrent-Lw7-4E, .theme-dark .tierDefault-2qaRkD, .theme-light .tierAccomplished-2eXPdI, .theme-light .tierCurrent-Lw7-4E, .theme-light .tierDefault-2qaRkD {
+    background: #800000;
+}
+
+.foreground-2EIns2 {
+    color: #800000;
+}
+
+.theme-dark .background-3xPPFc {
+    color: #0d0d0d;
+}
+
+.theme-dark .tierInProgress-3mBoXq {
+    background-color: #0d0d0d;
+}
+
+.theme-dark .tierHeaderLocked-3S508x {
+    background-color: #0d0d0d;
+    color: #ffffff;
+}
+
+.tierLock-3nsR0q {
+    width: 30px;
+    height: 30px;
+    margin-left: 16px;
+    color: #ffffff;
+}
+
+.theme-dark .tierBody-3aUxuc {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
