@@ -3137,7 +3137,7 @@ background-color: #1a1a1a;
     padding-left: 16px;
     padding-right: 16px;
     overflow-x: hidden;
-background-color: #1a1a1a;
+background-color: #0d0d0d;
 }
 
 .theme-dark .preview-yX6Nx7 {
@@ -4065,7 +4065,7 @@ background-color: #090909;
 }
 
 .contents-18-Yxp svg path {
-	fill: #ffffff;
+	fill: #ffffff00;
 }
 
 .iconSpacing-3eO9xt svg path {
@@ -4688,4 +4688,46 @@ background-color: #090909;
 .theme-dark .tierBody-3aUxuc {
     background-color: #1a1a1a;
     color: #ffffff;
+}
+
+.enableContainer-2DIT9Q {
+    padding: 16px;
+    background-color: #0d0d0d;
+    border-radius: 4px;
+}
+
+.settingsFormItem-103g1I {
+    width: 100%;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    padding: 16px;
+    background-color: #0d0d0d;
+}
+
+.box-J4N4jE {
+    background-color: #0d0d0d;
+    border-radius: 8px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 135px;
+    padding: 16px;
+    width: 210px;
+}
+
+.icon-3Povsy {
+    fill: #800000;
+}
+
+.theme-dark .member-1q7VfX .overflowIconFg-QMRRFI {
+    fill: #800000;
+}
+
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
+    background-color: #800000;
+    color: #ffffff;
+}
+
+.serverBoostTabItem-2hFTIN[aria-selected=true] {
+    color: #ffffff!important;
+    background-color: #800000!important;
 }
