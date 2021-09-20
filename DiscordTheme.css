@@ -4798,6 +4798,10 @@ background-color: #090909;
 }
 
 .container-lRFx4q {
-    background-color: #0d0d0d;
+    background-color: #000000;
     height: 100%;
+}
+
+.theme-dark .contentWrapper-3WC1ID {
+    background: #000000;
 }
