@@ -3314,17 +3314,6 @@ background-color: #090909;
     white-space: nowrap;
 }
 
-.scrollerBase-289Jih {
-    position: relative;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    min-height: 0;
-    -webkit-box-flex: 1;
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-    background-color: #000000;
-}
-
 .actionButton-uPB8Fs {
     cursor: pointer;
     width: 36px;
@@ -4260,3 +4249,5 @@ background-color: #090909;
     background-size: cover;
     content: "-";
 }
+
+
