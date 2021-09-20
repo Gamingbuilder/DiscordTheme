@@ -5161,3 +5161,35 @@ background-color: #090909;
     transform: scale(1);
     background-color: #800000;
 }
+
+.cta-3gK0Pu {
+    background-color: #800000;
+    color: #fff;
+    border-radius: 100px;
+    padding: 10px 16px;
+    font-weight: 600;
+    z-index: 1;
+}
+
+.cta-3gK0Pu:hover {
+    background-color: #800000;
+}
+
+.overlayTitle-8IcS01 {
+    border-radius: 8px;
+    background: rgba(128, 0, 0, 0.69);
+    color: #ffffff;
+    padding: 6px 12px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    margin-right: 8px;
+    -ms-flex-align: center;
+    min-width: 0;
+}
+
+.mediaBarInteractionDragging-2QurIZ .mediaBarGrabber-1FqnbN {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    background-color: #800000;
+}
