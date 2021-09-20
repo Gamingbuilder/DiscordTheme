@@ -4065,7 +4065,7 @@ background-color: #090909;
 }
 
 .contents-18-Yxp svg path {
-	fill: #ffffff00;
+	fill: #800000;
 }
 
 .iconSpacing-3eO9xt svg path {
@@ -4647,16 +4647,6 @@ background-color: #090909;
     height: 32px;
 }
 
-.tierUnlocked-2H6ULo {
-    background-color: #800000;
-    border-radius: 10px;
-    color: #ffffff;
-    font-size: 12px;
-    font-weight: 500;
-    padding: 4px 8px;
-    text-transform: uppercase;
-}
-
 .theme-dark .tierAccomplished-2eXPdI, .theme-dark .tierCurrent-Lw7-4E, .theme-dark .tierDefault-2qaRkD, .theme-light .tierAccomplished-2eXPdI, .theme-light .tierCurrent-Lw7-4E, .theme-light .tierDefault-2qaRkD {
     background: #800000;
 }
@@ -4730,4 +4720,84 @@ background-color: #090909;
 .serverBoostTabItem-2hFTIN[aria-selected=true] {
     color: #ffffff!important;
     background-color: #800000!important;
+}
+
+.added-3gEorX:after {
+    background-color: #800000;
+}
+
+.added-3gEorX {
+    color: #800000;
+}
+
+.primary-2McadE:hover:not(.disabled-3Njyym), .secondary-dIudih {
+    background-color: transparent;
+}
+
+.secondary-dIudih {
+    color: #800000;
+}
+
+.tierIcon-1g5KsI {
+    color: #800000;
+    width: 32px;
+    height: 32px;
+}
+
+.wrapper-18yWki {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #0d0d0d;
+    border-radius: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 12px;
+    position: relative;
+    -webkit-transition: background-color .125s;
+    transition: background-color .125s;
+}
+
+.featureIcon-3p1TC_ {
+    background-color: #1a1a1a;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.featureIcon-3p1TC_ path {
+    fill: #800000;
+}
+
+.container-3XJ8ns {
+    width: 250px;
+    overflow: hidden;
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 8px;
+    background-color: #0d0d0d;
+    border: 1px solid var(--background-modifier-accent);
+}
+
+.container-lRFx4q {
+    background-color: #0d0d0d;
+    height: 100%;
 }
