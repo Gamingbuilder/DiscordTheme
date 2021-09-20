@@ -4585,3 +4585,15 @@ background-color: #090909;
 .cardPrimary-1Hv-to {
     background: #0d0d0d;
 }
+
+.profileBannerPreview-3_l0Wd {
+    position: relative;
+    width: 300px;
+    min-width: 300px;
+    min-height: 280px;
+    background-color: #0d0d0d;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: #0d0d0d;
+    margin-top: 16px;
+}
