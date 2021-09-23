@@ -5451,3 +5451,69 @@ background-color: #090909;
 .colorError-3RX-d6 {
     color: #ffffff;
 }
+
+.discriminator-2C3qJO {
+    color: #800000;
+}
+
+.select-2fjwPw {
+    border: 1px solid transparent;
+    padding: 8px 8px 8px 12px;
+    cursor: pointer;
+    color: #800000;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.flowerStar-1GeTsn path {
+    fill: #ffffff;
+}
+
+.childContainer-1wxZNh path {
+    fill: #800000;
+}
+
+.iconBadge-qZ4Ksk {
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+    width: 8px;
+    height: 8px;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+.jumpButton-3DTcS_ {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-weight: 500;
+    line-height: 14px;
+    font-size: 11px;
+    height: 14px;
+    border-radius: 3px;
+    text-align: center;
+    padding: 2px 8px;
+    margin-right: 4px;
+    margin-left: 6px;
+    color: #ffffff;
+    background-color: #800000;
+}
+
+.live-vBWnV6.liveSmall-1dy2uA.textBadge-1iylP6.base-PmTxvP.liveShapeRound-32u79- {
+    color: #ffffff!important;
+    background-color: #800000!important;
+}
