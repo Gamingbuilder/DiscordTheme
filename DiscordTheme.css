@@ -5521,3 +5521,32 @@ background-color: #090909;
 .premiumIcon-1rDbWQ {
     color: #ffffff;
 }
+
+.reactionCount-2mvXRV {
+    font-size: 0.875rem;
+    font-weight: 500;
+    margin-left: .375rem;
+    text-align: center;
+    color: #ffffff;
+}
+
+.reaction-1hd86g {
+    border-radius: .5rem;
+    cursor: pointer;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin-right: .25rem;
+    margin-bottom: .25rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: none .1s ease;
+    transition: none .1s ease;
+    -webkit-transition-property: background-color,border-color;
+    transition-property: background-color,border-color;
+    background: #0d0d0d;
+    border: 1px solid #0d0d0d;
+}
