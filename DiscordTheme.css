@@ -5555,3 +5555,9 @@ background-color: #090909;
     border-color: #0d0d0d;
     background-color: #0D0D0D;
 }
+
+.theme-dark .contentWarningPopout-n5JsIs {
+    background-color: #1a1a1a;
+    -webkit-box-shadow: 0 2px 10px 0 rgb(28 36 43 / 60%);
+    box-shadow: 0 2px 10px 0 rgb(128 0 0);
+}
