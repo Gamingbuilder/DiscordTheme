@@ -5949,3 +5949,173 @@ div[aria-controls="add_friend-tab"] {
     color: #ffffff;
     margin-top: -2px;
 }
+
+
+ .avatarSpeaking-2c8-9i {box-shadow: inset 0 0 0 2px #800000;}
+
+
+
+
+                                            /*   USEFULL FIXES   */
+/*=====================================================================================================================*/
+/*Selection Background Color*/
+::selection {
+    background-color: rgb(128, 0, 0, 0.5);
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/* Remove Discover Public Servers */
+
+.tutorialContainer-30WoTp + div {display:none}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/* Remove Stage Discovery */
+
+#private-channels [href="/discovery"] {display: none}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/* Resize Custom CSS Editor */
+
+#floating-editor-window.resizable {
+    max-height: unset;
+    max-width: unset;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/* Capitalised Channel Names and Headers*/
+
+.headerIcon-1qrXTN+.headerLabel-3dG4M-,
+.children-19S4PO >h3,
+.item-PXvHYJ,
+.name-23GUGE {
+  text-transform: capitalize;
+}
+
+/*=====================================================================================================================*/
+
+
+
+                                                /*   ANIMATION   */
+/*=====================================================================================================================*/
+/*Right Click Menu Animation*/
+
+.menu-3sdvDG {
+    animation: custom-menu-animation 250ms ease;
+    transform-origin: top;
+}
+
+@keyframes custom-menu-animation {
+    0% {
+        transform: scaleY(0);
+    }
+    100% {
+        transform: scaleY(1);
+    }
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/* Search Icon*/
+
+.search-2oPWTC:not(.open-6_Y_aH) .searchBar-3dMhjb { width: 27px; transition: 0.25s; background-color: transparent;}
+.search-2oPWTC:not(.open-6_Y_aH):hover .searchBar-3dMhjb { width: 240px; background-color: #1a1a1a;}
+.search-2oPWTC:not(.open-6_Y_aH) .iconContainer-O4O2CN { transform: scale(1.3); transition: 0.25s;}
+.search-2oPWTC:not(.open-6_Y_aH):hover .iconContainer-O4O2CN { transform: scale(1);}
+.icon-3cZ1F_ { color: #800000}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*Left Pannel Hidden (Showing on Hover) */
+
+.sidebar-2K8pFh{
+  width: 0px;
+  transition: 0.5s ease;
+  position: fixed;
+  height: calc(100% - 47.988px);
+  z-index: 1;
+  bottom: 0px;
+}
+.wrapper-3NnKdC:hover+.base-3dtUhz>.content-98HsJk>.sidebar-2K8pFh{
+  width:269px;
+}
+.sidebar-2K8pFh:hover{
+  width:300px;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/* Animated Pings */
+
+.numberBadge-2s8kKX {
+  animation: animatedPing 1s infinite ease-in-out;
+}
+@keyframes animatedPing {
+  0% {
+    transform: rotate(-12deg);
+  }
+  50% {
+    transform: rotate(12deg) scale(1.3);
+  }
+  100% {
+    transform: rotate(-10deg);
+  }
+}
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*Animated Microphone, Headset, Settings Icons*/
+
+.button-14-BFJ:hover .contents-18-Yxp {
+  animation: UserModalButtons 0.5s normal ease;
+}
+.container-3baos1 .noWrap-3jynv6 {
+  width: 100px;
+  opacity: 1;
+}
+.button-14-BFJ {
+  transition: 0.2s;
+}
+.button-14-BFJ:hover {
+  padding-bottom: 0px;
+  transition: 0.2;
+}
+@keyframes UserModalButtons {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*Animated Text and Voice Channels*/
+
+.mainContent-u_9PKf:hover {
+  animation: UserModalButtons 0.5s normal ease;}
+.mainContent-u_9PKf .noWrap-3jynv6 {width: 100px;opacity: 1;}
+.mainContent-u_9PKf {transition: 0.2s;}
+.mainContent-u_9PKf:hover {transition: 0.2;}
+@keyframes UserModalButtons {
+  0% {
+    transform: translateY(0px);
+  }
+  45% {
+    transform: translateY(-5px);
+  }
+  90% {
+    transform: translateY(0px);
+  }
+}
+
+/*=====================================================================================================================*/
+
+/* Icons in settings( treba da si gi imam na svoj host, i @import sekogas treba da e najgore vo kodot, na samiot pocetok od temata)*/
+/*@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+
+:root {
+    --settingsiconssize: 18px;
+    --settingsiconsgap: 14px;
+}
+ */
+
+
+
