@@ -5840,3 +5840,31 @@ background-color: #090909;
     text-size-adjust: none;
     background-color: #090909;
 }
+
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {
+    background-color: rgb(128 0 0 / 50%);
+}
+
+.wrapper-2jXpOf:hover .content-1x5b-n {
+    background-color: rgb(26 26 26 / 50%);
+}
+
+.unread-2lAfLh {
+    background-color: #800000;
+}
+
+.name-23GUGE {
+    color: #ffffff;
+}
+
+.lookBlank-3eh9lL {
+    background: transparent;
+    color: #ffffff;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.closeIcon-150W3V path {
+    fill: #800000!important;
+}
