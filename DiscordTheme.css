@@ -5128,7 +5128,7 @@ background-color: #090909;
 }
 
 .bodyInnerWrapper-26fQXj {
-    background-color: #0d0d0d;
+    background-color: #090909;
     color: #ffffff;
 }
 
@@ -5867,4 +5867,85 @@ background-color: #090909;
 
 .closeIcon-150W3V path {
     fill: #800000!important;
+}
+
+.colorPremiumTier2-dCdap5 {
+    background-image: linear-gradient(90deg, #800000, #800000);
+}
+
+.colorPremium--X5Fw0 {
+    color: #ffffff;
+}
+
+.closeButton-3cJIM4 {
+    opacity: 1;
+}
+
+.theme-dark .button-2DhvE9:hover, .theme-light .button-2DhvE9:hover {
+    border-color: #ffffff;
+    background-color: #ffffff;
+}
+
+.colorPremiumTier2-dCdap5 .button-2DhvE9:hover {
+    color: #800000;
+}
+
+.fakeLink-26oLcc {
+    color: #800000;
+}
+
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+    background-color: #0d0d0d;
+    border: none;
+}
+
+.wrapper-PY0fhH {
+    color: #ffffff;
+}
+
+.stageSection-3mAD8V {
+    -webkit-box-orient: vertical;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    flex: 1 1 auto;
+    background: #000000;
+}
+
+.scroller-9moviB {
+    background-color: #000000;
+    contain: layout size;
+}
+
+div[aria-controls='logout-tab'] {
+    color: #800000!important;
+}
+
+div[aria-controls="add_friend-tab"] {
+    background-color: #800000!important;
+    color: #ffffff!important;
+}
+
+.topic-TCb_qw {
+    -webkit-box-flex: 1;
+    flex: 1 1 auto;
+    min-width: 0;
+    margin: 0 0 0 8px;
+    font-weight: 500;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.footer-3UKYOU {
+    padding: 0 16px 16px;
+    position: relative;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    background-color: #090909;
+    color: #ffffff;
+    margin-top: -2px;
 }
