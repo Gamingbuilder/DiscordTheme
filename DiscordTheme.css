@@ -6031,7 +6031,7 @@ div[aria-controls="add_friend-tab"] {
 
 /*---------------------------------------------------------------------------------------------------------------------*/
 /*Left Pannel Hidden (Showing on Hover) */
-
+/*
 .sidebar-2K8pFh{
   width: 0px;
   transition: 0.5s ease;
@@ -6046,7 +6046,7 @@ div[aria-controls="add_friend-tab"] {
 .sidebar-2K8pFh:hover{
   width:300px;
 }
-
+*/
 /*---------------------------------------------------------------------------------------------------------------------*/
 /* Animated Pings */
 
